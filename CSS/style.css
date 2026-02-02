@@ -1,0 +1,59 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.btn
+{
+    color: white;
+    background-color:darkblue;
+}
+
+.sec1-bg1
+{
+    background-image: url(../Images/Background/bg_1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+.sec4-bg1
+{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(../Images/Background/bg_2.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sec6-bg1
+{
+    background-image: url(../Images/Background/about-3.jpg);
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-position: center;
+}
+.sec7-div1:hover
+{
+    background-color: orangered;
+}
+
+.sec8-div1
+{
+    background-color: orangered;
+}
+
+.sec9-p1
+{
+    color: orangered;
+}
+
+.two-column-list
+{
+    column-count: 2;
+}
